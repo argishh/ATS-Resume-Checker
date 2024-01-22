@@ -38,7 +38,7 @@ This project aims to help students and employees review and improve their resume
 
 1. **Clone the repository:**
 
- `git clone [https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git)`
+ `git clone` [https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git)
 
 2. **Install the required libraries:**
 
