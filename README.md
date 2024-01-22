@@ -89,7 +89,7 @@ Special thanks to:
 
 ## **License**
 
-This project is licensed under the MIT License - see the [[LICENSE.md](LICENSE.md)](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker/blob/main/LICENSE) file for details.
 
 ## **Contact**
 
