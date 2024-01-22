@@ -38,7 +38,7 @@ This project aims to help students and employees review and improve their resume
 
 1. **Clone the repository:**
 
- `git clone [[repository URL]](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git)`
+ `git clone [https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker.git)`
 
 2. **Install the required libraries:**
 
@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## **Contact**
 
-For queries, suggestions, or collaborations, please contact the project maintainer at [mailto:argish.work@gmail.com](argish.work@gmail.com)
+For queries, suggestions, or collaborations, please contact the project maintainer at [argish.work@gmail.com](mailto:argish.work@gmail.com)
 
 ---
