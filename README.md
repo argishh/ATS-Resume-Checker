@@ -18,7 +18,7 @@ This project aims to help students and employees review and improve their resume
 
 ## **Technologies Used**
 
-**Primary Langauge** - Python
+**Primary Language** - Python
 
 - **Streamlit**: An open-source app framework used for building the front-end of the application.
 - **Gemini Pro API**: A state-of-the-art AI model used for generating content and analyzing resumes.
