@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## **Contact**
 
-For queries, suggestions, or collaborations, please contact the project maintainer at [argish.work@gmail.com](mailto:argish.work@gmail.com)
+For queries, suggestions, or collaborations, please contact the project maintainer at [argish.official@gmail.com](mailto:argish.official@gmail.com)
 
 ---
