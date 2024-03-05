@@ -20,14 +20,13 @@ This project aims to help students and employees review and improve their resume
 
 #### ATS Resume Checker
 
-[![](./static/0_main_page.png)]()
-[![](./static/0_output.png)]()
+[![](./static/0_output.png)](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker/tree/main/static/0_output.png)
 
 ---
 
 #### Expert Chatbot 'Jake Peralta'
 
-[![](./static/1_chat_page.png)]()
+[![](./static/1_chat_page.png)](https://github.com/argishh/ResUpgrade-ATS-Resume-Checker/tree/main/static/0_output.png)
 
 
 ## **Technologies Used**
