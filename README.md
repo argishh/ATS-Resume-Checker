@@ -5,15 +5,29 @@ ResUpgrade is an innovative **ATS (Applicant Tracking System) Resume Checker app
 
 ## **Overview**
 
-This project aims to help students and employees review and improve their resume by utilizing the advanced capabilities of Google Deepmind's Gemini Pro model. ResUpgrade offers a user-friendly interface to compare a resume against a job description, providing valuable feedback on match percentage, missing keywords, profile summary and also provides suggestions to improve the resume.
+This project aims to help students and employees review and improve their resume by utilizing the advanced capabilities of Google Deepmind's Gemini Pro model. ResUpgrade offers a user-friendly interface to compare a resume against a job description, providing valuable feedback on match percentage, missing keywords, profile summary and also provides suggestions to improve the resume. The Expert Guidance feature allows users to chat with an expert AI that is fine-tuned to help with solving user's doubts and providing guidance.
 
 
 ## **Features**
 
 - **Job Description Analysis**: Users can input a specific job title and description.
+- **Expert Guidance**: Users can clear all their queries by chatting with an Expert AI. 
 - **Resume Upload**: The app supports PDF format resume uploads for analysis.
-- **Gemini Pro Integration**: Leverages Google's advanced AI model for accurate and detailed resume evaluation.
+- **Gemini Pro Integration**: Leverages Google's advanced AI model for accurate and detailed resume evaluation and providing guidance.
 - **Feedback and Improvement Suggestions**: Provides detailed feedback including job description match percentage, missing keywords, and a profile summary.
+
+## **Screenshots**
+
+#### ATS Resume Checker
+
+[![](./static/0_main_page.png)]()
+[![](./static/0_output.png)]()
+
+---
+
+#### Expert Chatbot 'Jake Peralta'
+
+[![](./static/1_chat_page.png)]()
 
 
 ## **Technologies Used**
