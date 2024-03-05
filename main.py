@@ -54,7 +54,7 @@ if mode == "Expert Guidance":
         st.session_state.messages = []
 
 
-    st.header("Jacob Peralta")
+    st.header("Jake Peralta")
     st.caption('Gemini Agent ID: 007')
     st.divider()
 
