@@ -10,7 +10,8 @@ load_dotenv()
 
 # Important Instruction -
 # Create a .env file and store your API key in GOOGLE_API_KEY variable. 
-genai.configure(api_key = os.getenv("GOOGLE_API_KEY"))
+# genai.configure(api_key = os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key = st.secrets["GOOGLE_API_KEY"])
 
 # Getting Gemini Pro Response
 def generate_response(input):
